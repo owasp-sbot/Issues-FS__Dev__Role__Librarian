@@ -1,0 +1,23 @@
+{
+  "node_id": "0ba82958",
+  "node_type": "task",
+  "node_index": 1,
+  "label": "Task-1",
+  "title": "Add issues-fs-cli dependency to all repos",
+  "description": "Ensure every repo in the ecosystem has issues-fs-cli as a dependency and an initialized .issues/ directory",
+  "status": "backlog",
+  "created_at": 1770399581832,
+  "updated_at": 1770399605230,
+  "created_by": "4ac36b5b",
+  "tags": [],
+  "links": [
+    {
+      "link_type_id": "2d831209",
+      "verb": "contained-by",
+      "target_id": "8d1b78b0",
+      "target_label": "Feature-1",
+      "created_at": 1770399605230
+    }
+  ],
+  "properties": {}
+}

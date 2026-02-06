@@ -1,0 +1,37 @@
+{
+  "node_id": "8d1b78b0",
+  "node_type": "feature",
+  "node_index": 1,
+  "label": "Feature-1",
+  "title": "Issues-FS Librarian Bootstrap",
+  "description": "Bootstrap the Librarian role with ROLE.md, initial runbooks, and first ecosystem health scan",
+  "status": "proposed",
+  "created_at": 1770399559233,
+  "updated_at": 1770399605230,
+  "created_by": "91821712",
+  "tags": [],
+  "links": [
+    {
+      "link_type_id": "2d831209",
+      "verb": "contains",
+      "target_id": "2145faa9",
+      "target_label": "Feature-2",
+      "created_at": 1770399600944
+    },
+    {
+      "link_type_id": "2d831209",
+      "verb": "contains",
+      "target_id": "d62b4f93",
+      "target_label": "Bug-1",
+      "created_at": 1770399603435
+    },
+    {
+      "link_type_id": "2d831209",
+      "verb": "contains",
+      "target_id": "0ba82958",
+      "target_label": "Task-1",
+      "created_at": 1770399605230
+    }
+  ],
+  "properties": {}
+}
