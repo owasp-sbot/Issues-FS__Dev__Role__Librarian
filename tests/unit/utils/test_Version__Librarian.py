@@ -4,7 +4,7 @@ from osbot_utils.utils.Files          import parent_folder, file_name
 from issues_fs_dev_role_librarian.utils.Version          import version__issues_fs_dev_role_librarian, Version
 
 
-class test_Version(TestCase):
+class test_Version__Librarian(TestCase):
 
     @classmethod
     def setUpClass(cls):
