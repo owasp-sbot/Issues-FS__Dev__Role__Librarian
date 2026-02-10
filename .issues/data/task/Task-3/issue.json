@@ -1,0 +1,15 @@
+{
+  "node_id": "22a8027d",
+  "node_type": "task",
+  "node_index": 3,
+  "label": "Task-3",
+  "title": "Catalog stakeholder interview and LinkedIn article",
+  "description": "Dinis Cruz completed the first agent-to-human interview on 2026-02-10. Artifacts to catalog: (1) ChatGPT voice interview brief (the prompt that drove the interview): Journalist repo publications/interviews/2026-02-10/v0.1.2__stakeholder-interview-chatgpt-voice-brief.md, (2) Raw interview transcript: Journalist repo publications/interviews/2026-02-10/v0.1.3__chatgtp-stakeholder__raw-interview.md, (3) LinkedIn article: 'I Was Just Interviewed by ChatGPT on Behalf of One of My Claude Code Agents' published in the Deterministic GenAI newsletter. This is a significant milestone _ the first cross-model (Claude Code Journalist -> ChatGPT Voice -> human) interview workflow. Catalog these as primary sources, link them to the Journalist role, and tag with topics: interview, voice-mode, agent-collaboration, stakeholder, cross-model-workflow.",
+  "status": "backlog",
+  "created_at": 1770742212441,
+  "updated_at": 1770742212441,
+  "created_by": "ca5f93bd",
+  "tags": [],
+  "links": [],
+  "properties": {}
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "2145faa9",
+  "node_type": "feature",
+  "node_index": 2,
+  "label": "Feature-2",
+  "title": "Classify to_classify docs folder",
+  "description": "Reorganize the Issues-FS__Docs/docs/to_classify/ directory into a proper classification structure based on the Librarian docs-reorganization proposal",
+  "status": "proposed",
+  "created_at": 1770399566596,
+  "updated_at": 1770399600944,
+  "created_by": "2d958dc9",
+  "tags": [],
+  "links": [
+    {
+      "link_type_id": "2d831209",
+      "verb": "contained-by",
+      "target_id": "8d1b78b0",
+      "target_label": "Feature-1",
+      "created_at": 1770399600944
+    }
+  ],
+  "properties": {}
+}

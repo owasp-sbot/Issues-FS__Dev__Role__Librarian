@@ -1,0 +1,23 @@
+{
+  "node_id": "d62b4f93",
+  "node_type": "bug",
+  "node_index": 1,
+  "label": "Bug-1",
+  "title": "Issues-FS__Docs not creating tags on dev commits",
+  "description": "CI pipeline has should_increment_tag: true but only v0.1.0 tag exists. Root cause: missing pyproject.toml and requirements-test.txt in the Docs repo.",
+  "status": "backlog",
+  "created_at": 1770399579650,
+  "updated_at": 1770399603435,
+  "created_by": "a351928c",
+  "tags": [],
+  "links": [
+    {
+      "link_type_id": "2d831209",
+      "verb": "contained-by",
+      "target_id": "8d1b78b0",
+      "target_label": "Feature-1",
+      "created_at": 1770399603435
+    }
+  ],
+  "properties": {}
+}
