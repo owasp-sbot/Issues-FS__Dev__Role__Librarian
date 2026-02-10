@@ -1,0 +1,15 @@
+{
+  "node_id": "b0124498",
+  "node_type": "task",
+  "node_index": 2,
+  "label": "Task-2",
+  "title": "Catalog debrief: Double-Path Bug Fix (P0) resolved",
+  "description": "The Dev role has published a debrief documenting the resolution of the P0 double-path prefix bug. File: roles/Issues-FS__Dev__Role__Dev/docs/debrief__2026-02-10__double-path-bug-fix.md. This document should be cataloged and cross-referenced with the CLI assessment (docs/assessment__2026-02-09__cli-status.md). Key points: all 14 path methods fixed, 475+92 tests pass, CLI now works on real repos (Librarian and Issues-FS verified). A follow-up Obj_Id validation bug was also discovered.",
+  "status": "backlog",
+  "created_at": 1770691503073,
+  "updated_at": 1770691503073,
+  "created_by": "97497dba",
+  "tags": [],
+  "links": [],
+  "properties": {}
+}
