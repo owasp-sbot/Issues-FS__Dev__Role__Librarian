@@ -1,0 +1,15 @@
+{
+  "node_id": "eba024e6",
+  "node_type": "task",
+  "node_index": 7,
+  "label": "Task-7",
+  "title": "Catalog LinkedIn post about news site launch",
+  "description": "Second LinkedIn publication by Dinis Cruz about Issues-FS: https://www.linkedin.com/feed/update/urn:li:ugcPost:7427154122086318080/ _ about the Journalist news site going live at https://owasp-sbot.github.io/Issues-FS__Dev__Role__Journalist/. Catalog alongside the first LinkedIn article (ChatGPT interview). Tag: linkedin, news-site, public-launch, milestone.",
+  "status": "backlog",
+  "created_at": 1770771617523,
+  "updated_at": 1770771617523,
+  "created_by": "d7197a47",
+  "tags": [],
+  "links": [],
+  "properties": {}
+}
